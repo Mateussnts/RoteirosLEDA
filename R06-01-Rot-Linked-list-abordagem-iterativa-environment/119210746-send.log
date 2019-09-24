@@ -7,3 +7,23 @@
   <level>FINE</level>
   <message>File 119210746-MATEUS ALVES DOS SANTOS.zip was received. It was sent by MATEUS ALVES DOS SANTOS from IP 150.165.42.145 at 23-09-2019 16*33*34</message>
 </record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-23T17:31:10.260-0300</date>
+  <logger>MATEUS ALVES DOS SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210746-MATEUS ALVES DOS SANTOS.zip was received. It was sent by MATEUS ALVES DOS SANTOS from IP 150.165.42.145 at 23-09-2019 17*31*10</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-23T23:44:45.774-0300</date>
+  <logger>MATEUS ALVES DOS SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210746-MATEUS ALVES DOS SANTOS.zip was received. It was sent by MATEUS ALVES DOS SANTOS from IP 192.168.25.4 at 23-09-2019 23*44*45</message>
+</record>
