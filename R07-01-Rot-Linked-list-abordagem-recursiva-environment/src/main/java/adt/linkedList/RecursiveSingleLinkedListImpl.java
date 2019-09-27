@@ -11,6 +11,11 @@ public class RecursiveSingleLinkedListImpl<T> implements LinkedList<T> {
 
 	}
 
+	public RecursiveSingleLinkedListImpl(T data, RecursiveSingleLinkedListImpl<T> next) {
+		this.data = data;
+		this.next = next;
+	}
+
 	@Override
 	public boolean isEmpty() {
 		if (data == null)
