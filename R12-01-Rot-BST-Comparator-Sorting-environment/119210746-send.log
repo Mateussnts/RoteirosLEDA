@@ -7,3 +7,13 @@
   <level>FINE</level>
   <message>File 119210746-MATEUS ALVES DOS SANTOS.zip was received. It was sent by MATEUS ALVES DOS SANTOS from IP 150.165.42.113 at 24-10-2019 15*51*29</message>
 </record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-10-24T22:08:50.265-0300</date>
+  <logger>MATEUS ALVES DOS SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210746-MATEUS ALVES DOS SANTOS.zip was received. It was sent by MATEUS ALVES DOS SANTOS from IP 192.168.25.4 at 24-10-2019 22*08*50</message>
+</record>
