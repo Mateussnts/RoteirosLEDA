@@ -6,12 +6,13 @@ import adt.bt.Util;
 
 /**
  * 
- * Performs consistency validations within a AVL Tree instance
+ * Implementacao de uma arvore AVL
  * 
  * @author Claudio Campelo
  *
  * @param <T>
  */
+
 public class AVLTreeImpl<T extends Comparable<T>> extends BSTImpl<T> implements AVLTree<T> {
 
 	// AUXILIARY
