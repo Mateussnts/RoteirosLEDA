@@ -17,15 +17,15 @@ public class AVLTreeImpl<T extends Comparable<T>> extends BSTImpl<T> implements 
 
 	// AUXILIARY
 	protected int calculateBalance(BSTNode<T> node) {
-		int retorno = 0;
+		int resultado = 0;
 
 		if (node != null && !node.isEmpty()) {
 			BSTNode<T> nodeLeft = (BSTNode<T>) node.getLeft();
 			BSTNode<T> nodeRight = (BSTNode<T>) node.getRight();
-			retorno = super.height(nodeLeft) - super.height(nodeRight);
+			resultado = super.height(nodeLeft) - super.height(nodeRight);
 		}
 
-		return retorno;
+		return resultado;
 	}
 
 	// AUXILIARY
@@ -80,14 +80,14 @@ public class AVLTreeImpl<T extends Comparable<T>> extends BSTImpl<T> implements 
 	}
 
 	protected boolean isChildPerLeft(BSTNode<T> node) {
-		boolean retorno = false;
+		boolean result = false;
 		if (node != null && !node.isEmpty()) {
 			BSTNode<T> parent = (BSTNode<T>) node.getParent();
 			if (parent.getLeft().equals(node)) {
-				retorno = true;
+				result = true;
 			}
 		}
-		return retorno;
+		return result;
 	}
 
 	@Override

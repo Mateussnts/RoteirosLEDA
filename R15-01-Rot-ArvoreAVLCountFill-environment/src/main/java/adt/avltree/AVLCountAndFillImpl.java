@@ -119,7 +119,7 @@ public class AVLCountAndFillImpl<T extends Comparable<T>> extends
 				}
 			});
 
-			Thread thread2 = new Thread(new Runnable() {
+			Thread thread_2 = new Thread(new Runnable() {
 				@Override
 				public void run() {
 					mergeLikeInsertion(array, middle + 1, rightIndex);
@@ -127,7 +127,7 @@ public class AVLCountAndFillImpl<T extends Comparable<T>> extends
 			});
 
 			thread.start();
-			thread2.start();
+			thread_2.start();
 		}
 	}
 }
