@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-18T16:19:39.037-0300</date>
+  <logger>MATEUS ALVES DOS SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210746-MATEUS ALVES DOS SANTOS.zip was received. It was sent by MATEUS ALVES DOS SANTOS from IP 150.165.42.134 at 18-11-2019 16*19*39</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-18T16:41:58.030-0300</date>
+  <logger>MATEUS ALVES DOS SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210746-MATEUS ALVES DOS SANTOS.zip was received. It was sent by MATEUS ALVES DOS SANTOS from IP 150.165.42.134 at 18-11-2019 16*41*58</message>
+</record>
